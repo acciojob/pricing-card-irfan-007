@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.card{
+	width:20rem;
+	padding:1rem;
+	background-color:sandybrown;
+	box-shadow:10px 8px 20px gray;
+	border:1px solid white;
+	border-radius:25px;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-evenly;
+	align-items:center;
+}
+img{
+	display:cover;
+	width:15rem;
+	border-radius:50px;
+	border:1px solid white;
+}
+button{
+	padding:0.8rem;
+	background-color:wheat;
+	border-radius:50px;
+	outline:1px solid cyan;
+}
